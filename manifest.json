@@ -1,0 +1,40 @@
+{
+    "AUDIO": {
+        "SOUNDS": {
+            "GUI": {
+                "button_click": "assets/audio/sounds/gui/button_click.wav"
+            },
+            "GAME": {
+                "bottle_pickup": "assets/audio/sounds/game/bottle_pickup.wav",
+                "drink_use": "assets/audio/sounds/game/drink_use.wav"
+            }
+        },
+        "MUSIC": {
+            "game": "assets/audio/music/game.wav"
+        }
+    },
+    "FONTS": {
+        "Pixellari": "assets/fonts/Pixellari.ttf"
+    },
+    "TEXTURES": {
+        "GUI": {
+            "background": "assets/textures/gui/background.tmx",
+            "button": "assets/textures/gui/button.png",
+            "checkbox": "assets/textures/gui/checkbox.png",
+            "usw_logo": "assets/textures/gui/usw_logo.jpg"
+        },
+        "SPRITES": {
+            "player": "assets/textures/sprites/player.png",
+            "beer_bottle": "assets/textures/sprites/beer_bottle.png"
+        },
+        "SPRITESHEETS": {
+            "beer": "assets/textures/spritesheets/beer.png",
+            "guards": "assets/textures/spritesheets/guards.png",
+            "items": "assets/textures/spritesheets/items.png",
+            "steam_heart": "assets/textures/spritesheets/steam_heart.png",
+            "tileset": "assets/textures/spritesheets/tileset.png",
+            "tilesetV2": "assets/textures/spritesheets/Tilesetv2.png"
+        }
+    }
+
+}
