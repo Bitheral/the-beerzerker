@@ -13,6 +13,4 @@
 
 <br />
 
-[Try out the latest build!](https://github.com/PlaceholderGames/2020-yr1-group-3/releases/latest)
-
-### Developed by CS1S464 2020-21 Year 1 Group 3
+[Try out the latest build!](https://github.com/Bitheral/the-beerzerker/releases/latest)
